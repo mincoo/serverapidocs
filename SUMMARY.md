@@ -1,4 +1,5 @@
 # Summary
 
-* [获取验证码](huo_qu_yan_zheng_ma.md)
+* [Introduction](README.md)
+* [获取验证码](vcode.md)
 
