@@ -1,7 +1,7 @@
 # Summary
 
 * [易明校信API文档](README.md)
-* [用户账户相关](account/README.md)
+* [用户账户相关](account/user_README.md)
    * [获取验证码](account/user_vcode.md)
    * [注册账户](account/user_register.md)
    * [用户登录](account/user_login.md)
@@ -10,6 +10,7 @@
    * [修改密码](account/user_chpwd.md)
    * [重置密码](account/user_repwd.md)
    * [通过手机号搜索用户](account/user_searchbyphone.md)
+* [班级相关](account/group_README.md)
    * [获取用户的班级列表及详细信息](account/group_getlist.md)
    * [创建群组](account/group_build.md)
    * [修改群组信息](account/group_update.md)
@@ -25,6 +26,7 @@
    * [退出班级](account/group_exit.md)
    * [家长加入班级时选择学生](account/group_addchild.md)
    * [家长取消关注学生](account/group_delchild.md)
+* [消息相关](account/msg_README.md)
    * [消息列表](account/msg_getlist.md)
    * [消息内容](account/msg_getdata.md)
    * [删除消息](account/msg_delete.md)
@@ -33,6 +35,6 @@
    * [消息推送状态切换](account/msg_tagchange.md)
    * [Jpush注销](account/msg_cleanjpush.md)
    * [消息阅读状态](account/msg_readstate.md)
-   * [版本信息](account/version.md)
+* [版本信息](account/version.md)
    
    
