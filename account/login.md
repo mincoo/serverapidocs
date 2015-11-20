@@ -42,4 +42,4 @@
 |type  |int   |用户类型<br>1 教师（需要后台审核）<br>2 家长|
 |name  |String|用户名|
 |face  |String|用户头像（默认为空，按显示默认头像）|
-|token |String|用户令牌（校验用户登录状态的有效性）|
+|token |String|用户令牌（校验用户登录状态的有效性）      hkjhkj|
