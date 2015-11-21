@@ -2,7 +2,7 @@
 该短信验证码数据由业务系统下发。
 
 ####1.基本信息
-- 接口地址：{API_URL}/user/regist  
+- 接口地址：`{API_URL}/user/regist`  
 - 请求方式：POST
 
 

@@ -2,7 +2,7 @@
 班级成员自己退出班级。
 
 ####1.基本信息
-- 接口地址：{API_URL}/group/exit 
+- 接口地址：`{API_URL}/group/exit` 
 - 请求方式：POST
 
 ####2.参数信息  

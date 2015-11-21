@@ -1,7 +1,7 @@
 ##创建群组
 
 ####1.基本信息
-- 接口地址：{API_URL}/group/build 
+- 接口地址：`{API_URL}/group/build` 
 - 请求方式：POST
 
 

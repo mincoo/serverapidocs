@@ -2,7 +2,7 @@
 返回班级全部的家长信息。
 
 ####1.基本信息
-- 接口地址：{API_URL}/group/puserlist 
+- 接口地址：`{API_URL}/group/puserlist` 
 - 请求方式：POST
 
 

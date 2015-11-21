@@ -2,7 +2,7 @@
 创建者将学生踢出班级。
 
 ####1.基本信息
-- 接口地址：{API_URL}/group/delstudent 
+- 接口地址：`{API_URL}/group/delstudent` 
 - 请求方式：POST
 
 

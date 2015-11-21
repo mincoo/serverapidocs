@@ -1,7 +1,7 @@
 ##加入群组
 
 ####1.基本信息
-- 接口地址：{API_URL}/group/join 
+- 接口地址：`{API_URL}/group/join` 
 - 请求方式：POST
 
 

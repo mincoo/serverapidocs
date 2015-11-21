@@ -1,7 +1,7 @@
 ## 重置密码
 
 ####1.基本信息
-- 接口地址：{API_URL}/user/repwd  
+- 接口地址：`{API_URL}/user/repwd`  
 - 请求方式：POST
 
 

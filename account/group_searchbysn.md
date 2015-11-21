@@ -2,7 +2,7 @@
 根据班号查询用户信息。
 
 ####1.基本信息
-- 接口地址：{API_URL}/group/searchbysn 
+- 接口地址：`{API_URL}/group/searchbysn` 
 - 请求方式：POST
 
 

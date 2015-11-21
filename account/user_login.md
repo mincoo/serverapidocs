@@ -1,7 +1,7 @@
 ## 用户登录
 
 ####1.基本信息
-- 接口地址：{API_URL}/user/login  
+- 接口地址：`{API_URL}/user/login`  
 - 请求方式：POST
 
 
@@ -12,7 +12,7 @@
 | regid     | 是        | 设备的registration_id|
 | phone     | 是        | 用户手机号|
 | passwd    | 是        | 登录密码  |
-| version   | 否        | 版本号    |
+| *version*   | *否*        | *版本号*    |
 | sign      | 是        | 数据校验码|
 
 

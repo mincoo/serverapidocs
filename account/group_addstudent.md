@@ -2,7 +2,7 @@
 添加学生到班级。
 
 ####1.基本信息
-- 接口地址：{API_URL}/group/addstudent 
+- 接口地址：`{API_URL}/group/addstudent` 
 - 请求方式：POST
 
 

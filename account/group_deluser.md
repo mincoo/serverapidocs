@@ -2,7 +2,7 @@
 创建者将老师或者家长，踢出班级。
 
 ####1.基本信息
-- 接口地址：{API_URL}/group/deluser 
+- 接口地址：`{API_URL}/group/deluser` 
 - 请求方式：POST
 
 

@@ -1,7 +1,7 @@
 ##修改群组信息
 
 ####1.基本信息
-- 接口地址：{API_URL}/group/update 
+- 接口地址：`{API_URL}/group/update` 
 - 请求方式：POST
 
 

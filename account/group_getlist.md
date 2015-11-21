@@ -2,7 +2,7 @@
 获取用户的班级列表，包括自己创建的和自己加入的。
 
 ####1.基本信息
-- 接口地址：{API_URL}/group/getlist 
+- 接口地址：`{API_URL}/group/getlist` 
 - 请求方式：POST
 
 

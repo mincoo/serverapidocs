@@ -1,7 +1,7 @@
 ## 根据手机号搜索用户
 
 ####1.基本信息
-- 接口地址：{API_URL}/user/searchbyphone  
+- 接口地址：`{API_URL}/user/searchbyphone`  
 - 请求方式：POST
 
 

@@ -1,7 +1,7 @@
 ##消息内容
 
 ####1.基本信息
-- 接口地址：{API_URL}/msg/getdata
+- 接口地址：`{API_URL}/msg/getdata`
 - 请求方式：POST
 
 ####2.参数信息  

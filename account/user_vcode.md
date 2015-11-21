@@ -1,7 +1,7 @@
 ## 获取验证码
 
 ####1.基本信息
-- 接口地址：{API_URL}/user/vcode  
+- 接口地址：`{API_URL}/user/vcode`  
 - 请求方式：POST
 
 

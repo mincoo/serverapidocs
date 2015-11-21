@@ -1,7 +1,7 @@
 ##消息推送状态切换
 
 ####1.基本信息
-- 接口地址：{API_URL}/msg/tagchange
+- 接口地址：`{API_URL}/msg/tagchange`
 - 请求方式：POST
 
 ####2.参数信息  

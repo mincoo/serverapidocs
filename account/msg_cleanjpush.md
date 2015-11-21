@@ -1,7 +1,7 @@
 ##Jpush注销
 
 ####1.基本信息
-- 接口地址：{API_URL}/msg/cleanjpush
+- 接口地址：`{API_URL}/msg/cleanjpush`
 - 请求方式：POST
 
 ####2.参数信息  

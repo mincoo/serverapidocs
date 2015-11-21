@@ -2,7 +2,7 @@
 返回班级全部的老师信息。
 
 ####1.基本信息
-- 接口地址：{API_URL}/group/tuserlist 
+- 接口地址：`{API_URL}/group/tuserlist` 
 - 请求方式：POST
 
 

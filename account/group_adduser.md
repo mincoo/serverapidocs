@@ -2,7 +2,7 @@
 邀请某人加入到班级。
 
 ####1.基本信息
-- 接口地址：{API_URL}/group/adduser 
+- 接口地址：`{API_URL}/group/adduser` 
 - 请求方式：POST
 
 

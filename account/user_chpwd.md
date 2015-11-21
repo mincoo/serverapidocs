@@ -1,7 +1,7 @@
 ## 修改密码
 
 ####1.基本信息
-- 接口地址：{API_URL}/user/chpwd  
+- 接口地址：`{API_URL}/user/chpwd`  
 - 请求方式：POST
 
 

@@ -1,7 +1,7 @@
 ## 获取用户信息
 
 ####1.基本信息
-- 接口地址：{API_URL}/user/getinfo  
+- 接口地址：`{API_URL}/user/getinfo`  
 - 请求方式：POST
 
 

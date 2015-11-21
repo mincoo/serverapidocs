@@ -2,7 +2,7 @@
 家长加入班级的时候选择要关注的学生，可多选。
 
 ####1.基本信息
-- 接口地址：{API_URL}/group/addchild 
+- 接口地址：`{API_URL}/group/addchild` 
 - 请求方式：POST
 
 ####2.参数信息  
