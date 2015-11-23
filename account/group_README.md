@@ -1,17 +1,17 @@
 ##班级相关接口
 ---
-- 获取用户的班级列表及详细信息
-- 创建群组
-- 修改群组信息
-- 通过班号搜索班级
-- 班级成员列表及详细信息（老师）
-- 班级成员列表及详细信息（家长）
-- 班级成员列表及详细信息（学生）
-- 加入班级
-- 添加成员（老师，家长）
-- 添加成员（学生）
-- 删除成员（老师/家长）
-- 删除成员（学生）
-- 退出班级
-- 家长加入班级时选择学生
-- 家长取消关注学生
+- [获取用户的班级列表及详细信息](account/group_getlist.md)
+- [创建群组](account/group_build.md)
+- [修改群组信息](account/group_update.md)
+- [通过班号搜索班级](account/group_searchbysn.md)
+- [班级成员列表及详细信息（老师）](account/group_tuserlist.md)
+- [班级成员列表及详细信息（家长）](account/group_puserlist.md)
+- [班级成员列表及详细信息（学生）](account/group_suserlist.md)
+- [加入班级](account/group_join.md)
+- [添加成员（老师，家长）](account/group_adduser.md)
+- [添加成员（学生）](account/group_addstudent.md)
+- [删除成员（老师/家长）](account/group_deluser.md)
+- [删除成员（学生）](account/group_delstudent.md)
+- [退出班级](account/group_exit.md)
+- [家长加入班级时选择学生](account/group_addchild.md)
+- [家长取消关注学生](account/group_delchild.md)
