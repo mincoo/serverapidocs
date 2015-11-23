@@ -33,7 +33,6 @@
    * [单发消息](account/msg_send.md)
    * [群发消息](account/msg_gsend.md)
    * [消息推送状态切换](account/msg_tagchange.md)
-   * [Jpush注销](account/msg_cleanjpush.md)
    * [消息阅读状态](account/msg_readstate.md)
 * [版本信息](account/version.md)
    
