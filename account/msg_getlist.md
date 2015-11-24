@@ -53,7 +53,7 @@
 |gname   |String|群组名|
 |uname   |String|用户名|
 |sender  |String|发送者（群组名 用户名）|
-|senderId|String|发送者ID|
+|senderId|int|发送者ID|
 |stime   |String|发送时间|
 |status  |int   |消息状态<br>1 未读<br>2 已读|
 |uface   |String|发送者头像|
