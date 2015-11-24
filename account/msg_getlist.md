@@ -29,10 +29,11 @@
 				"title":"上午9点半在逸夫楼502上课",
 				"gname":"六年级英语5班",
 				"uname":"张老师",
-				"sender":"六年级英语5班",
+				"sender":"六年级英语5班 张老师",
+				"senderId":123,
 				"stime":"2015-03-04 9:10",
 				"status":1,
-				"uface":””
+				"uface":""
 			},
 			...
 		]
@@ -51,7 +52,8 @@
 |title   |String|消息标题|
 |gname   |String|群组名|
 |uname   |String|用户名|
-|sender  |String|发送者（群组名或用户名）|
+|sender  |String|发送者（群组名 用户名）|
+|senderId|String|发送者ID|
 |stime   |String|发送时间|
 |status  |int   |消息状态<br>1 未读<br>2 已读|
 |uface   |String|发送者头像|
