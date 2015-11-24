@@ -19,6 +19,17 @@
 ##文档更新日志
 
 ####GitHub中文档版本
+- 5d4afbf7ad2453d7ac0fe61ca8265a0946dbe089
+
+####更新内容
+- msg/getlist接口，返回值list中添加senderId字段
+
+####更新时间
+- 2015.11.24
+
+<br>
+
+####GitHub中文档版本
 - abbc2b4e72daaf80bec1cf282ba6219e900352d4
 
 ####更新内容
