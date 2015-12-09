@@ -18,6 +18,23 @@
 
 ##文档更新日志
 
+
+####GitHub中文档版本
+- 
+
+####更新内容
+- group/join加入班级接口：参数中添加type，传递用户在班级中的角色
+- group/adduser添加成员接口：参数中添加type，传递添加用户在班级中的角色
+- group/getlist获取班级列表接口：参数中添加start，设计为分页
+- group/tuserlist班级成员列表（老师）接口：参数中添加start，设计为分页
+- group/puserlist班级成员列表（家长）接口：参数中添加start，设计为分页
+
+####更新时间
+- 2015.12.2
+
+<br>
+<br>
+
 ####GitHub中文档版本
 - 5d4afbf7ad2453d7ac0fe61ca8265a0946dbe089
 
@@ -27,6 +44,7 @@
 ####更新时间
 - 2015.11.24
 
+<br>
 <br>
 
 ####GitHub中文档版本

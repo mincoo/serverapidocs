@@ -13,6 +13,7 @@
 | uid       | 是        | 用户ID    |
 | token     | 是        | 用户令牌  |
 | sign      | 是        | 数据校验码|
+| start     | 是        | 开始ID（默认值0）    |
 
 ####3.报文响应
 
@@ -22,6 +23,7 @@
 	"msg":"success",
 	"data":{
 		"size":10,
+		"last":10,		
 		"list":[
 			{
 				"gid":615,
@@ -48,6 +50,7 @@
 |--------|------|------|
 |status  |int   |获取结果<br>1 成功<br>0 失败|
 |msg     |String|结果信息描述|
+|last    |int   |本页最后ID（用于分页start参数）|
 |size    |int   |列表大小|
 |gid     |int   |群组ID|
 |uid     |int   |创建者ID|

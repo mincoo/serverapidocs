@@ -14,6 +14,7 @@
 | token     | 是        | 用户令牌  |
 | sign      | 是        | 数据校验码|
 | gid       | 是        | 群组ID    |
+| start     | 是        | 开始ID（默认值0）    |
 
 ####3.报文响应
 
@@ -23,6 +24,7 @@
 	"msg":"success",
 	"data":{
 		"size":10,
+		"last":10,
 		"list":[
 			{
 				"pid":126,
@@ -49,6 +51,7 @@
 |--------|------|------|
 |status  |int   |搜索结果<br>1 成功<br>0 失败|
 |msg     |String|结果信息描述|
+|last    |int   |本页最后ID（用于分页start参数）|
 |size    |int   |列表大小（家长）|
 |pid     |int   |用户ID（家长）  |
 |pname   |String|名称（家长）    |

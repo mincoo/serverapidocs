@@ -24,6 +24,7 @@
 		"list":[
 			{
 				"mid":123,
+				"gid":1,
 				"type":1,
 				"url":"",
 				"title":"上午9点半在逸夫楼502上课",
@@ -47,6 +48,7 @@
 |msg     |String|结果信息描述|
 |last    |int   |本页最后ID（用于分页start参数）|
 |mid     |int   |消息ID|
+|gid     |int   |群组ID|
 |type    |int   |消息类型<br>1 文本<br>2 链接|
 |url     |String|消息URL|
 |title   |String|消息标题|
