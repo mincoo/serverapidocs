@@ -1,6 +1,7 @@
 # Summary
 
 * [易明校信API文档](README.md)
+* [文档更新日志](UPDATE_LOG.md) 
 * [用户账户相关](account/user_README.md)
    * [获取验证码](account/user_vcode.md)
    * [注册账户](account/user_register.md)
@@ -35,5 +36,5 @@
    * [消息推送状态切换](account/msg_tagchange.md)
    * [消息阅读状态](account/msg_readstate.md)
 * [版本信息](account/version.md)
-   
+  
    
